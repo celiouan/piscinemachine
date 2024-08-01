@@ -1,0 +1,66 @@
+C Piscine C02
+
+Exercise 00 : ft_strcmp
+Exercise 01 : ft_strncmp
+Exercise 02 : ft_strcat
+Exercise 03 : ft_strncat
+Exercise 04 : ft_strstr
+Exercise 05 : ft_strlcat
+
+=========================================================================
+ex00/ft_strcmp.c
+-------------------------------------------------------------------------
+Allowed functions : None
+
+
+Reproduce the behavior of the function strcmp (man strcmp).
+Here’s how it should be prototyped :
+
+	int ft_strcmp(char *s1, char *s2)
+=========================================================================
+ex01/ft_strncmp.c
+-------------------------------------------------------------------------
+Allowed functions : None
+
+• Reproduce the behavior of the function strncmp (man strncmp).
+• Here’s how it should be prototyped :
+
+	int ft_strncmp(char *s1, char *s2, unsigned int n);
+	
+=========================================================================
+ex02/ft_strcat.c
+-------------------------------------------------------------------------
+Allowed functions : None
+
+• Reproduce the behavior of the function strcat (man strcat).
+• Here’s how it should be prototyped :
+
+	char *ft_strcat(char *dest, char *src);
+=========================================================================
+ex03/ft_strncat.c
+-------------------------------------------------------------------------
+Allowed functions : None
+
+• Reproduce the behavior of the function strncat (man strncat).
+• Here’s how it should be prototyped :
+
+	char *ft_strncat(char *dest, char *src, unsigned int nb);
+=========================================================================
+ex04/ft_strstr.c
+-------------------------------------------------------------------------
+Allowed functions : None
+
+• Reproduce the behavior of the function strstr (man strstr).
+• Here’s how it should be prototyped :
+
+	char *ft_strstr(char *str, char *to_find);
+=========================================================================
+ex05/strlcat.c
+-------------------------------------------------------------------------
+Allowed functions : None
+Reproduce the behavior of the function strlcat (man strlcat).
+• Here’s how it should be prototyped :
+
+	unsigned int ft_strlcat(char *dest, char *src, unsigned int size);
+=========================================================================
+

@@ -1,0 +1,139 @@
+C00
+
+This module is an introduction to C programming. You will see how the write function works and also how loops work.
+
+Exercise 00 : ft_putchar
+Exercise 01 : ft_print_alphabet
+Exercise 02 : ft_print_reverse_alphabet
+Exercise 03 : ft_print_numbers
+Exercise 04 : ft_is_negative
+
+C01
+
+This module is an introduction to C programming. You will improve your skills in using loops in a more advanced way than you discovered in the previous module.
+
+Exercise 00 : ft_ft
+Exercise 01 : ft_ultimate_ft
+Exercise 02 : ft_swap
+Exercise 03 : ft_div_mod
+Exercise 04 : ft_ultimate_div_mod
+Exercise 05 : ft_putstr
+Exercise 06 : ft_strlen
+Exercise 07 : ft_rev_int_tab
+Exercise 08 : ft_sort_int_tab
+Submission and peer-evaluation
+
+C02
+
+This module is an introduction to C programming. In this module, you will learn how to improve your functions. You will have to set up controls on the parameters.
+
+Exercise 00 : ft_strcpy
+Exercise 01 : ft_strncpy
+Exercise 02 : ft_str_is_alpha
+Exercise 03 : ft_str_is_numeric
+Exercise 04 : ft_str_is_lowercase
+Exercise 05 : ft_str_is_uppercase
+Exercise 06 : ft_str_is_printable
+Exercise 07 : ft_strupcase
+Exercise 08 : ft_strlowcase
+Exercise 09 : ft_strcapitalize
+Exercise 10 : ft_strlcpy
+Exercise 11 : ft_putstr_non_printable
+Exercise 12 : ft_print_memory
+
+C03
+
+This module is an introduction to C programming. In this module, you will learn how to do string manipulation.
+
+Exercise 00 : ft_strcmp
+Exercise 01 : ft_strncmp
+Exercise 02 : ft_strcat
+Exercise 03 : ft_strncat
+Exercise 04 : ft_strstr
+Exercise 05 : ft_strlcat
+
+C04
+
+This module is an introduction to C programming. In this module, you will continue to use strings and you will see how to manipulate integers.
+
+Exercise 00 : ft_strlen
+Exercise 01 : ft_putstr
+Exercise 02 : ft_putnbr
+Exercise 03 : ft_atoi
+Exercise 04 : ft_putnbr_base
+Exercise 05 : ft_atoi_base
+
+C05
+
+This module is an introduction to C programming. In this module, you will have to implement small algorithms using recursive programming.
+
+Exercise 00 : ft_iterative_factorial
+Exercise 01 : ft_recursive_factorial
+Exercise 02 : ft_iterative_power
+Exercise 03 : ft_recursive_power
+Exercise 04 : ft_fibonacci
+Exercise 05 : ft_sqrt
+Exercise 06 : ft_is_prime
+Exercise 07 : ft_find_next_prime
+Exercise 08 : The Ten Queens
+
+C06
+
+This module is an introduction to C programming. In this module you will learn how to use C arguments in your program and not only in your functions.
+
+Exercise 00 : ft_print_program_name
+Exercise 01 : ft_print_params
+Exercise 02 : ft_rev_params
+Exercise 03 : ft_sort_params
+
+C07
+
+This module is an introduction to C programming. In this module, you will consolidate your skills by using different algorithms to go further!
+
+Exercise 00 : ft_strdup
+Exercise 01 : ft_range
+Exercise 02 : ft_ultimate_range
+Exercice 03 : ft_strjoin
+Exercise 04 : ft_convert_base
+Exercise 05 : ft_split
+
+C08
+
+This module is an introduction to C programming. In this module, you will learn how to manipulate libraries by creating custom libraries.
+
+Exercise 00 : ft.h
+Exercise 01 : ft_boolean.h
+Exercise 02 : ft_abs.h
+Exercise 03 : ft_point.h
+Exercise 04 : ft_strs_to_tab
+Exercise 05 : ft_show_tab
+
+C09
+
+This module is an introduction to C programming. In this module, you will learn how to create your first Makefile. It is important to understand how these files work.
+
+Exercise 00 : libft
+Exercise 01 : Makefile
+Exercise 02 : ft_split
+
+C10
+
+This module is an introduction to C programming. In this module, you will have to use all the skills you have seen before and create complete programs!
+
+Exercise 00 : display_file
+Exercise 01 : cat
+Exercise 02 : tail
+Exercise 03 : hexdump
+
+C11
+
+This module is an introduction to C programming. In this module, you will do a little bit of advanced algorithms.
+
+C12
+
+This module is an introduction to C programming. In this module, you will discover the famous chained list.
+
+C13
+
+This module is an introduction to C programming. In this module, you will discover binary trees.
+
